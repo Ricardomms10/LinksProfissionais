@@ -62,7 +62,7 @@ export default function Home() {
           </button>
         </a>
 
-        <a href="https://github.com/seu-username-do-github" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/Ricardomms10" target="_blank" rel="noopener noreferrer">
           <button className={styles.button}>
             <div className={styles.buttonContent}>
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-github">
